@@ -2,7 +2,6 @@
 .thumbs.db
 node_modules
 .quasar
-/dist
 /src-cordova/node_modules
 /src-cordova/platforms
 /src-cordova/plugins
