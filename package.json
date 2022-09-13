@@ -2,7 +2,7 @@
   "name": "gss",
   "version": "0.0.1",
   "description": "",
-  "productName": "Galleria Slideshow Site",
+  "productName": "Galleria slideshow site",
   "author": "Sergey Yurkov <38420364+sergeyyurkov1@users.noreply.github.com>",
   "private": true,
   "scripts": {
